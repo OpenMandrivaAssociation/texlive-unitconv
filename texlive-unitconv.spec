@@ -3,7 +3,7 @@ Version:	55060
 Release:	2
 Summary:	Convert a length into one with another unit
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/unitconv
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/unitconv
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/unitconv.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/unitconv.doc.r%{version}.tar.xz
